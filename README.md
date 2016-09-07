@@ -1,2 +1,4 @@
-# tabbed_subpanels
-tabbed subpanel solution for suiteCRM / SugarCRM CE
+# Tabbed Subpanels
+### A tabbed subpanel solution for SuiteCRM / SugarCRM CE
+
+Docs can be found at: https://blasher.github.io/tabbed_subpanels/
