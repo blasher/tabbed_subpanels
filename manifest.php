@@ -44,19 +44,19 @@ $installdefs = array (
 
 $installdefs['copy'] = array(
 	0 => array(
-		'from' => '<basepath>/custom/Extension/application/Ext/LogicHooks/tabbed_subpanels_hook.php',
-		'to' => '/custom/Extension/application/Ext/LogicHooks/tabbed_subpanels_hook.php',
+		'from' => '<basepath>/files/custom/Extension/application/Ext/LogicHooks/tabbed_subpanels_hook.php',
+		'to' => 'custom/Extension/application/Ext/LogicHooks/tabbed_subpanels_hook.php',
 	) ,
 	1 => array(
-		'from' => '<basepath>/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.php',
-		'to' => '/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.php',
+		'from' => '<basepath>/files/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.php',
+		'to' => 'custom/Extension/application/tabbed_subpanels/tabbed_subpanels.php',
 	) ,
 	2 => array(
-		'from' => '<basepath>/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.js',
-		'to' => '/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.js',
+		'from' => '<basepath>/files/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.js',
+		'to' => 'custom/Extension/application/tabbed_subpanels/tabbed_subpanels.js',
 	) ,
 	3 => array(
-		'from' => '<basepath>/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.css',
-		'to' => '/custom/Extension/application/tabbed_subpanels/tabbed_subpanels.css',
+		'from' => '<basepath>/files/custom/Extension/application/tabbed_subpanels/tabbed_subpanels_css.php',
+		'to' => 'custom/Extension/application/tabbed_subpanels/tabbed_subpanels_css.php',
 	) ,
 );
