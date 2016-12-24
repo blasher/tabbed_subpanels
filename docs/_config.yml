@@ -1,0 +1,8 @@
+title: Tabbed Subpanels for SuiteCRM
+description: This is a simple plugin compresses subpanels and puts them into tabs". 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
