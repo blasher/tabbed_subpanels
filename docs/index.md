@@ -18,6 +18,6 @@ I apologize, however due issues caused by discrepencies between the zip file tha
 
 ![Image of Yaktocat](screenshot.jpg)
 
-### Support or Contact</h3>
+### Support or Contact
 
 Having trouble? Contact me at <a href="mailto:me@brianlasher.com">me@brianlasher.com</a> and i will do my best to help you sort it out.
